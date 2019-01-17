@@ -1,2 +1,2 @@
-55 21 * * * ./bin/disable-policy.sh projects/<Project ID>/alertPolicies/<Policy ID>
-00 08 * * * ./bin/enable-pilicy.sh projects/<Project ID>/alertPolicies/<Policy ID>
+55 21 * * * /opt/bin/disable-policy.sh projects/<Project ID>/alertPolicies/<Policy ID>
+00 08 * * * /opt/bin/enable-pilicy.sh projects/<Project ID>/alertPolicies/<Policy ID>
